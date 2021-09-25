@@ -1,0 +1,28 @@
+.header {
+    background-color: #344051;
+    height: 60px;
+    min-width: 850px;
+}
+.header_row {
+    max-width: 100%;
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+    height: inherit;
+}
+.header_row li{
+    display: inline;
+    margin-right:  40px;
+    line-height: 25px;
+    color: rgb(255, 255, 255);
+    font-size: 16.667px;
+    text-transform: uppercase;
+}
+.header_title {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin-right: 50px;
+}

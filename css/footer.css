@@ -1,0 +1,16 @@
+.footer {
+    background-color: #354051;
+    height: 90px;
+}
+.footer_row {
+    height: inherit;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_text {
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+    line-height: 29.662;
+}
