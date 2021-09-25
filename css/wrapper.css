@@ -6,6 +6,5 @@ body{
     flex-direction: column;
     min-height: 100%;
     overflow: hidden;
-    overflow-y: hidden;
     min-width: 1200px;
 }
