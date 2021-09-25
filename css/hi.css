@@ -5,6 +5,7 @@
     justify-content: center;
     background:url(../img/boyPhone.png) no-repeat right/contain, url(../img/FonImage.png) no-repeat center/cover ;
     width: 100%;
+    min-height: 1100px;
 }
 .content_row {
     max-width: 900px;
