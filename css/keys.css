@@ -1,9 +1,9 @@
 .keys {
     display: flex;
+    justify-content: center;
 }
 .container_keys {
     text-align: center;
-    margin: 0 auto;
 }
 .keys_label {
     margin-top: 100px;
@@ -28,6 +28,7 @@
 }
 .container_row {
     margin-right: 80px;
+    margin-left: 25px;
 }
 .container_client {
     text-align: left;
@@ -59,9 +60,10 @@
     margin-bottom: 10px;
 }
 .container_poject p{
-        font-size: 16px;
-        color: rgb(63, 73, 90);
-        line-height: 1.2;
+    font-size: 16px;
+    color: rgb(63, 73, 90);
+    line-height: 1.2;
+    margin-right: 20px;
 }
 .container_input input{
     background-color: #63b5ae;
