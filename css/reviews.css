@@ -1,0 +1,26 @@
+.reviews {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 100px 0px;
+}
+.reviews_label {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.reviews_line {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.reviews_photo {
+    margin-bottom: 35px;
+}
+.reviews_text {
+    margin: 0 auto;
+    width: 750px;
+    margin-bottom: 30px;
+} 
+.reviews_radio {
+    margin-top: 50px;
+}
