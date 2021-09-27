@@ -13,8 +13,8 @@
 }
 .statistick_label h2{
     font-size: 25px;
+    font-weight: bold;
     color: #323e4f;
-    text-shadow: 1px 0px 0px;
     text-transform: uppercase;
 }
 .statistick_line {
@@ -23,7 +23,6 @@
 .statistick_items {
     display: flex;
     justify-content: space-between;
-    /* background-color: red; */
     width: 1300px;
     margin: 0 auto;
 }
